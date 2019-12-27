@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton|Rock+Salt|Special+Elite&display=swap');
+
+
+/* font-family: 'Special Elite', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Rock Salt', cursive; */
+
+.separator{
+    color: #d95931;
+    height: 5vh;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    padding-top: 1vh;
+}
+
+.col1{
+    font-family: 'Special Elite', cursive;
+    /* padding-top: 15vh; */
+}
+
+.row1, .row2, .row3, .row4, .row5{
+    margin-bottom: 15vh;
+    margin-top: 10vh;
+}
+
+
+
+.images{
+    height: 60vh;
+}
+
+.footer{
+    /* height: 20vh; */
+    padding-top: 5vh;
+    font-family: 'Special Elite', cursive;
+
+}
